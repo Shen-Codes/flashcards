@@ -1,0 +1,28 @@
+{
+    "cards": [
+        {
+            "id":1,
+            "question":"what is this?",
+            "answer":"this refers to instance of this",
+            "source":"the internets"
+        },
+        {
+            "id":2,
+            "question":"what is inheritance",
+            "answer":"something I still don't understand",
+            "source":"the internets"
+        },
+        {
+            "id":3,
+            "question":"what does array.reduce do?",
+            "answer":"takes a value based off a function passed to .reduce and sends it to the accumulator",
+            "source":"the internets"
+        },
+        {
+            "id":4,
+            "question":"what is javascript?",
+            "answer":"scripting language run on a browser",
+            "source":"the internets"
+        }
+    ]
+}
